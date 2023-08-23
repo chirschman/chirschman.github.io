@@ -1,18 +1,18 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
+  name        : "Caelyn Hirschman"
   uri         : "http://name.com"
-  email       : "name@name.com"
+  email       : "cahi6763@colorado.edu"
   bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  avatar      : "CaelynHirschman_headshot_2.png"
+  twitter     : "@HirschmanCaelyn"
+  google_plus : #"Name"
 
 Name2 Name2:
   name        : "Name2 Name2"
   email       : "name2@name2.com"
   bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
+  avatar      : "CaelynHirschman_headshot_2.png"
   twitter     : "name2"
-  google_plus : "Name"
+  google_plus : #"Name"
