@@ -10,7 +10,7 @@ redirect_from:
 
 I'm Caelyn, a biomechanics researcher completing my PhD in Dr. Alena Grabowski's Applied Biomechanics Lab at the University of Colorado Boulder. I am passionate about assistive devices, footwear and product development. My PhD work has been focused on using biofeedback to aid with gait retraining in somebody with an amputation, applying the mechanics of biological legs when running on slopes to future assistive device design and investigating how female specific soccer cleats effect performance of female soccer players compared to when they wear men’s cleats.
 
-My Work and Research
+My work and research
 ======
 My master’s work was focused on quantifying the mechanics of the biological leg when running on uphill and downhill slopes to apply to future assistive device design. Athletes with a unilateral trans-tibial amputation use a running specific (RSP) prosthesis to run. These devices are designed to mimic the mechanics of the biological leg when running on level ground. The mechanics of the biological leg have yet to be explored when running on slopes and could be beneficial when designing a versatile RSP. We quantified joint stiffness of the ankle and knee and used a novel equation to calculate how the ankle and knee contributions to overall leg stiffness change on slopes compared to level ground. To see what we found, see the publications tab!
 
