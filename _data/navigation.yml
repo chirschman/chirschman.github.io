@@ -2,7 +2,7 @@
 main:   
   - title: "CV"
     #url: /cv/
-    url: fies/Resume.pdf
+    url: files/Resume.pdf
     
   - title: "Publications"
     url: /publications/
