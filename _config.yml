@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Caelyn Hirschman"
 title_separator          : "-"
 name                     : &name "Caelyn Hirschman"
-description              : &description "personal description"
+description              : &description "I am a biomechanics researcher completing my PhD in Dr. Alena Grabowski's Applied Biomechanics Lab. I am passionate about assistive devices and footwear."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chirschman/academicpages.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Caelyn Hirschman"
-  avatar           : "C:/Users/caely/Documents/CU Boulder/CaelynHirschman_headshot.jpeg"
+  avatar           : "CaelynHirschman_headshot.jpeg"
   bio              : "Biomechanics Researcher, PhD Candidate"
   location         : "University of Colorado Boulder"
   employer         : "Dr. Alena Grabowski"
