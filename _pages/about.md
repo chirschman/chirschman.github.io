@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Picture of goose](/images/
+![Picture of goose](/images/MLZH6866 (1).JPG){: .align-right width="300px"}
 I'm Caelyn, a biomechanics researcher completing my PhD in Dr. Alena Grabowski's Applied Biomechanics Lab at the University of Colorado Boulder. I am passionate about assistive devices, footwear and product development. My PhD work has been focused on using biofeedback to aid with gait retraining in somebody with an amputation, applying the mechanics of biological legs when running on slopes to future assistive device design and investigating how female specific soccer cleats effect performance of female soccer players compared to when they wear men’s cleats.
 
 My work and research
