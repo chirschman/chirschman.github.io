@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Health and Exercise Science, Regis University, 2014-2018
+* M.S. in Integrative Physiology, University of Colorado Boulder, 2019-2021
+* Ph.D in Integrative Physiology, University of Colorado Boulder, 2021-2024 (expected)
 
 Work experience
 ======
