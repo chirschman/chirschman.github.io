@@ -1,14 +1,14 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Human Anatomy"
+type: "Biomechanics, Neurophysiology, Human Anatomy"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Colorado Boulder"
 date: 2022-01-16
 location: "Boulder, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Lead recitation and lab sections for undergraduate Biomechanics, Neurophysiology and Anatomy courses.Created and lead exam review sessions and weekly office hours. Mentored struggling students on an individual basis.
 
 Heading 1
 ======
